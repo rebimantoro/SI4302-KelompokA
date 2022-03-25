@@ -2,3 +2,4 @@
 [S1 - PBI3] Membuat halaman registrasi #3 Done (revisi)
 [S1 - PBI4] Membuat profile #5 Done
 [S1 - PBI5] Membuat landing page #2 Done
+[S1 - PBI2] Membuat login #4 Progress
