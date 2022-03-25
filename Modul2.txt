@@ -1,2 +1,2 @@
 [S1 - PBI1] Membuat dashboard #1 Done
-[S1 - PBI3] Membuat halaman registrasi #3 Progress
+[S1 - PBI3] Membuat halaman registrasi #3 Done
